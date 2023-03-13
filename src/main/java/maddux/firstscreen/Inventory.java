@@ -1,5 +1,5 @@
 package maddux.firstscreen;
-
+// this should be part
 public class Inventory {
     private int id;
     private String name;

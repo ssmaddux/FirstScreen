@@ -65,19 +65,19 @@ public class MainFormController implements Initializable {
         productPriceCol.setCellValueFactory(new PropertyValueFactory<>("Price"));
 
 // temporary data for proving functionality of code.
-        allParts.add(new Part(1,"muffler", 200, 376));
-        allParts.add(new Part(27,"belt", 78, 50));
-        allParts.add(new Part(43,"condenser", 1000, 200));
-        allParts.add(new Part(22,"lugnut", 25, 10));
-        allParts.add(new Part(700,"headlight", 1, 250));
-        allParts.add(new Part(7,"oil pan", 56, 10));
-
-        allProducts.add(new Product(7,"wizzle", 20, 36));
-        allProducts.add(new Product(2,"whiscker", 88, 500));
-        allProducts.add(new Product(3,"knocker", 1800, 210));
-        allProducts.add(new Product(12,"kent", 251, 101));
-        allProducts.add(new Product(100,"super", 11, 12345));
-        allProducts.add(new Product(79,"shmitl", 53, 1));
+//        allParts.add(new Part(1,"muffler", 200, 376));
+//        allParts.add(new Part(27,"belt", 78, 50));
+//        allParts.add(new Part(43,"condenser", 1000, 200));
+//        allParts.add(new Part(22,"lugnut", 25, 10));
+//        allParts.add(new Part(700,"headlight", 1, 250));
+//        allParts.add(new Part(7,"oil pan", 56, 10));
+//
+//        allProducts.add(new Product(7,"wizzle", 20, 36));
+//        allProducts.add(new Product(2,"whiscker", 88, 500));
+//        allProducts.add(new Product(3,"knocker", 1800, 210));
+//        allProducts.add(new Product(12,"kent", 251, 101));
+//        allProducts.add(new Product(100,"super", 11, 12345));
+//        allProducts.add(new Product(79,"shmitl", 53, 1));
 
 
 
